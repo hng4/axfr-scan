@@ -24,4 +24,5 @@ So far, It has grabed the zones of:
 - .sy
 - .xn--lgbbat1ad8j
 - .xn--0gbpf8fl
-And it continues to run every day.
+
+And it continues to run every day, If you have a legitimate reason for these zone files, please contact dnsadmin@oc.gy
